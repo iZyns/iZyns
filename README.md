@@ -15,13 +15,13 @@
 </br>
 
 <a href="https://www.instagram.com/vincent.nw/">
-<img align="right" height="25" width="25" src="https://cdn.simpleicons.org/instagram/#d62976" />
+<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/instagram/#d62976" />
 </a>
 <a href="https://www.linkedin.com/in/vnw/">
-<img align="right" height="25" width="25" src="https://cdn.simpleicons.org/linkedin/#0072b1" />
+<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/linkedin/#0072b1" />
 </a>
 <a href="https://www.github.com/izyns">
-<img align="right" height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
+<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
 </a>
 </br>
 😄 Pronouns: He/Him
