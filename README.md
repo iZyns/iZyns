@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Vincent.
 
-Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passion for coding. But don't let my introverted tendencies fool you - I can be quite the extrovert with people I know well. Being an international student from Indonesia has allowed me to bring a unique perspective to my work and has taught me the importance of adaptability and an open mind. In my free time, you can catch me experimenting with new coding languages, binge-watching sci-fi shows, and trying out different types of cuisine.
-                    
+Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passion for coding. But don't let my introverted tendencies fool you - I can be quite the extrovert with people I know well. Being an international student from Indonesia has allowed me to bring a unique perspective to my work and has taught me the importance of adaptability and an open mind. In my free time, you can catch me experimenting with watching sci-fi movies, and trying out different types of food.                 
 
 🔭 I’m currently looking for summer internship opportunities
 </br>
