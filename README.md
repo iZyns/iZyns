@@ -33,7 +33,7 @@ Languages and Tools:
 </br>
 <img height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
 <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudio/white" />
-<img height="25" width="25" src="https://cdn.simpleicons.org/intellij/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/intellijidea/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/docker/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/git/white" />
