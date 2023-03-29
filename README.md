@@ -9,11 +9,11 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 
 <a href="https://www.instagram.com/vincent.nw/">
-<img height="25" width="25" src="https://cdn.simpleicons.org/instagram/purple" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/instagram/#962fbf" />
 </a>
 
 <a href="https://www.linkedin.com/in/vnw/">
-<img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/blue" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/linkedin/#0072b1" />
 </a>
 
 <a href="https://www.github.com/izyns">
