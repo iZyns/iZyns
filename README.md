@@ -3,6 +3,7 @@
 Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passion for coding. But don't let my introverted tendencies fool you - I can be quite the extrovert with people I know well. Being an international student from Indonesia has allowed me to bring a unique perspective to my work and has taught me the importance of adaptability and an open mind. In my free time, you can catch me experimenting with watching sci-fi movies, and trying out different types of food.                 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izyns&label=Profile%20views&color=18d838&style=flat-square" alt="izyns" /> </p>
 
+🏫 University of Washington
 🔭 I’m currently looking for summer internship opportunity
 </br>
 🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
