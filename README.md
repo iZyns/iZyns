@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently looking for summer internship opportunities
-- 🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
-- 👯 I’m looking to collaborate on any open source projects
-- 🤔 I’m looking for help with dynamic programming
+🔭 I’m currently looking for summer internship opportunities
+🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
+👯 I’m looking to collaborate on any open source projects
+🤔 I’m looking for help with dynamic programming
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 
 <a href="https://www.instagram.com/vincent.nw/">
@@ -20,7 +20,7 @@
 <img height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
 </a>
 </br>
-- 😄 Pronouns: He/Him
-- </br>
-- ⚡ Fun fact: I love dangerous sports
+😄 Pronouns: He/Him
+</br>
+⚡ Fun fact: I love dangerous sports
 
