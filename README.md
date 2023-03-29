@@ -1,6 +1,8 @@
 ### Hi 👋, I'm Vincent.
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />
+<a href="https://www.instagram.com/vincent.nw/">
+<img height="25" width="25" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg"/>
+</a>
 
 <!--
 **iZyns/iZyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
