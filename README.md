@@ -38,3 +38,5 @@ Languages and Tools:
 <img height="25" width="25" src="https://cdn.simpleicons.org/docker/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/csharp/white" />
   </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iZyns&layout=compact&theme=dark&hide_border=true)
+
