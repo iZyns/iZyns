@@ -21,5 +21,6 @@
 </a>
 </br>
 - 😄 Pronouns: He/Him
+- </br>
 - ⚡ Fun fact: I love dangerous sports
 
