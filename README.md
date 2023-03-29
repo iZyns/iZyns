@@ -28,6 +28,7 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 😄 Pronouns: He/Him
 </br>
 ⚡ Fun fact: I love dangerous sports
+</br>
 Languages and Tools:
 <img height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
 <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudio/white" />
