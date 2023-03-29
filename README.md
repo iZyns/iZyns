@@ -4,6 +4,14 @@
 <img height="25" width="25" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg"/>
 </a>
 
+<a href="https://www.linkedin.com/in/vnw/">
+<img height="25" width="25" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"/>
+</a>
+
+<a href="https://www.github.com/izyns">
+<img height="25" width="25" src="https://unpkg.com/simple-icons@v8/icons/github.svg"/>
+</a>
+
 <!--
 **iZyns/iZyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
