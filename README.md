@@ -30,8 +30,8 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 ⚡ Fun fact: I love dangerous sports
 </br>
 Languages and Tools:
-<div>
-<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
+<div align="left">
+<img height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
 <img height="25" width="25" src="https://cdn.simpleicons.org/visualstudio/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/intellijidea/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
