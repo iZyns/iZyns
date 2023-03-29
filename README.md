@@ -13,7 +13,7 @@
 <!-- - 💬 Ask me about ... -->
 📫 How to reach me: 
 </br>
-
+<div>
 <a href="https://www.instagram.com/vincent.nw/">
 <img align="left" height="25" width="25" src="https://cdn.simpleicons.org/instagram/#d62976" />
 </a>
@@ -23,6 +23,7 @@
 <a href="https://www.github.com/izyns">
 <img align="left" height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
 </a>
+ </div>
 </br>
 😄 Pronouns: He/Him
 </br>
