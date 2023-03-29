@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Vincent.
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />
 
 <!--
 **iZyns/iZyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+>
