@@ -9,7 +9,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 
 <a href="https://www.instagram.com/vincent.nw/">
-<img height="25" width="25" src="https://cdn.simpleicons.org/instagram/#962fbf" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/instagram/#d62976" />
 </a>
 
 <a href="https://www.linkedin.com/in/vnw/">
