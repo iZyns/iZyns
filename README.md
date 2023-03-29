@@ -29,6 +29,6 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 </br>
 ⚡ Fun fact: I love dangerous sports
 Languages:
-<img height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
-<img height="25" width="25" src="https://cdn.simpleicons.org/java/white" />
+<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
+<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/java/white" />
 <img height="25" width="25" src="https://cdn.simpleicons.org/csharp/white" />
