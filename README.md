@@ -19,6 +19,7 @@
 <a href="https://www.github.com/izyns">
 <img height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
 </a>
+</br>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love dangerous sports
 
