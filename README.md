@@ -3,11 +3,15 @@
 
 
 🔭 I’m currently looking for summer internship opportunities
+</br>
 🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
+</br>
 👯 I’m looking to collaborate on any open source projects
+</br>
 🤔 I’m looking for help with dynamic programming
+</br>
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: 
+📫 How to reach me: 
 <a href="https://www.instagram.com/vincent.nw/">
 <img height="25" width="25" src="https://cdn.simpleicons.org/instagram/#d62976" />
 </a>
