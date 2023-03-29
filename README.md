@@ -29,8 +29,13 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 </br>
 ⚡ Fun fact: I love dangerous sports
 </br>
-Languages:
+Languages and Tools:
 </br>
 <img height="25" width="25" src="https://cdn.simpleicons.org/c++/white"/>
-<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/java/white" />
-<img align="left" height="25" width="25" src="https://cdn.simpleicons.org/csharp/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/vscode/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/IntelliJ IDEA
+/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/github/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/docker/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/git/white" />
+<img height="25" width="25" src="https://cdn.simpleicons.org/csharp/white" />
