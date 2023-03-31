@@ -4,7 +4,8 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izyns&label=Profile%20views&color=18d838&style=flat-square" alt="izyns" /> </p>
 
 🏫 University of Washington
-🔭 I’m currently looking for summer internship opportunity
+</br>
+🔭 I’m currently looking for a summer internship opportunity
 </br>
 🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
 </br>
