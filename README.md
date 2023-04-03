@@ -13,7 +13,7 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 </br>
 🤔 I’m looking for help with dynamic programming
 </br>
-👨‍💻 All of my projects are available  <a href="https://izyns.github.io/">here</a>
+👨‍💻 All of my projects are available  <a href="https://izyns.github.io/personal-web">here</a>
 </br>
 📫 How to reach me: 
 </br>
