@@ -5,11 +5,11 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 
 🏫 University of Washington
 </br>
-🔭 I’m currently looking for a summer internship opportunity
+🔭 I’m currently looking for an internship opportunity
 </br>
 🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
 </br>
-👯 I’m looking to collaborate on any open source projects
+👯 I’m looking to collaborate on any open-source projects
 </br>
 🤔 I’m looking for help with dynamic programming
 </br>
