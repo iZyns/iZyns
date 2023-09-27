@@ -7,7 +7,7 @@ Hey there! Welcome to my GitHub page. I'm an introverted tech nerd with a passio
 </br>
 🔭 I’m currently looking for an internship opportunity
 </br>
-🌱 I’m currently learning Computer Design & Architecture, as well as Game Development
+🌱 I’m currently learning Operating Systems, as well as Multimedia Data Processing
 </br>
 👯 I’m looking to collaborate on any open-source projects
 </br>
